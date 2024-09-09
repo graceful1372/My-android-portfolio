@@ -4,4 +4,5 @@
 
 * اپ مواد عذایی
 
-[!NOTE]
+> [!NOTE]
+> Useful information that users should know, even when skimming content
