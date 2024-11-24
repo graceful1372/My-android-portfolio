@@ -17,4 +17,4 @@
   > ثبت یادداشت ها و برنامه ریزی روزانه
 
 * نمونه کار های تمرینی
-> [Retrofit in Compose](https://github.com/graceful1372/Actor-App-Compose)
+  > [Retrofit in Compose](https://github.com/graceful1372/Actor-App-Compose)
