@@ -16,5 +16,9 @@
 * [دفترچه  یادداشت](https://github.com/graceful1372/notebook_bazar)
   > ثبت یادداشت ها و برنامه ریزی روزانه
 
-  * ساعت فارکس
-  > [Forx oclock24](https://github.com/graceful1372/market24hclock)
+* [ساعت فارکس](https://github.com/graceful1372/market24hclock)
+  > نمایش ساعت 24 ساعته فارکس
+
+
+
+
