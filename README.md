@@ -6,7 +6,7 @@
 * [شمس یار](https://github.com/graceful1372/My-android-portfolio/tree/shams?tab=readme-ov-file)
   > کمک برنامه اموزشی موسسه اموزشی شمس الشموس (ع)
 
-* [Forexino](https://github.com/graceful1372/My-android-portfolio/blob/forexino/README.md)
+* [Forexino](https://github.com/graceful1372/My-android-portfolio/tree/forexino?tab=readme-ov-file)
   > برای یادداشت برداری معاملات و تحلیل های انجام معاملات
 
 
