@@ -3,7 +3,7 @@
 در این جا میتوانید نمونه کار های من رو مشاهده کنید :
 در صورت نیازمیتونید روی هرکدام کیلک کنید تا جزئیات هر پروژه نگاه کنید 
 
-* [شمس یار](https://github.com/graceful1372/Shams-yar/tree/main)
+* [شمس یار](https://github.com/graceful1372/My-android-portfolio/tree/shams?tab=readme-ov-file)
   > کمک برنامه اموزشی موسسه اموزشی شمس الشموس (ع)
 
 * [Forexino](https://github.com/graceful1372/Forexino_P)
