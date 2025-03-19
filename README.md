@@ -36,5 +36,6 @@
 هدف ما از ساخت این اپلیکیشن، ارائه یک ابزار جامع و کاربردی به جامعه تریدرهای فارسی‌زبان است تا بتوانند با استفاده از آن، تصمیمات معاملاتی بهتری اتخاذ کنند و در بازارهای مالی موفق‌تر باشند.
 
 
-![a1](https://github.com/user-attachments/assets/4622ef4c-6610-4c77-bb8e-28d4ab97fb07)     ![a3](https://github.com/user-attachments/assets/dea7daf4-ff1d-41c1-be27-65e93079a957)
+
+![Home](https://github.com/user-attachments/assets/019405f5-842b-4968-9eef-807349ac3171)
 
