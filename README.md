@@ -3,8 +3,8 @@
 در این جا میتوانید نمونه کار های من رو مشاهده کنید :
 در صورت نیازمیتونید روی هرکدام کیلک کنید تا جزئیات هر پروژه نگاه کنید 
 
-* [شمس یار](https://github.com/graceful1372/My-android-portfolio/tree/shams?tab=readme-ov-file)
-  > کمک برنامه اموزشی موسسه اموزشی شمس الشموس (ع)
+* [سبطین یار](https://github.com/graceful1372/My-android-portfolio/tree/shams?tab=readme-ov-file)
+  > کمک برنامه اموزشی موسسه اموزشی سبطین (علیها السلام)
 
 * [Forexino](https://github.com/graceful1372/My-android-portfolio/tree/forexino?tab=readme-ov-file)
   > برای یادداشت برداری معاملات و تحلیل های انجام معاملات
