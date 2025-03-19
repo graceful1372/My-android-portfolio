@@ -28,7 +28,8 @@
 
 عکسهای از برخی از صفحه های برنامه :
 
-![Home 7](https://github.com/user-attachments/assets/bfb44355-aa98-40dc-87fc-5cbda921fcdd) ![Detail](https://github.com/user-attachments/assets/6b39c794-c71f-4758-8232-52c7af0cbfab) ![Factors](https://github.com/user-attachments/assets/43dbb5c1-0cb8-44e0-8eaf-10370a93c5bb) ![Add Factor](https://github.com/user-attachments/assets/c858bbda-d0e2-486b-bd90-7236a61f31fa) ![Frame 21](https://github.com/user-attachments/assets/93214527-ce98-46cf-83de-075ea7fb29dd)
+![Home 7](https://github.com/user-attachments/assets/bfb44355-aa98-40dc-87fc-5cbda921fcdd) ![Detail](https://github.com/user-attachments/assets/6b39c794-c71f-4758-8232-52c7af0cbfab) ![Factors](https://github.com/user-attachments/assets/43dbb5c1-0cb8-44e0-8eaf-10370a93c5bb) ![Add Factor](https://github.com/user-attachments/assets/c858bbda-d0e2-486b-bd90-7236a61f31fa) ![Frame 21](https://github.com/user-attachments/assets/ab22a097-fc55-4a38-86f9-b512128c5a2d)
+
 
 
 
