@@ -22,7 +22,7 @@
 * [تولید یار شابهار](https://github.com/graceful1372/My-android-portfolio/tree/wearhouse-shabahar)
   > مدریت انبار داری صنایع غذایی شابهار
 
-* [نوری شاب](https://github.com/graceful1372/My-android-portfolio/tree/wearhouse-shabahar)
+* [نوری شاب](https://github.com/graceful1372/My-android-portfolio/tree/nouri_shop?tab=readme-ov-file)
   > برنامه تمرینی فروشگاهی
 
 
