@@ -6,7 +6,7 @@
 * [سبطین یار](https://github.com/graceful1372/My-android-portfolio/tree/shams?tab=readme-ov-file)
   > کمک برنامه اموزشی موسسه اموزشی سبطین (علیها السلام)
 
-* [Forexino](https://github.com/graceful1372/My-android-portfolio/tree/forexino?tab=readme-ov-file)
+* [فارکسینو](https://github.com/graceful1372/My-android-portfolio/tree/forexino?tab=readme-ov-file)
   > برای یادداشت برداری معاملات و تحلیل های انجام معاملات
 
 
