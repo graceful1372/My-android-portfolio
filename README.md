@@ -20,7 +20,10 @@
   > نمایش ساعت 24 ساعته فارکس
 
 * [تولید یار شابهار](https://github.com/graceful1372/My-android-portfolio/tree/wearhouse-shabahar)
-  > مدریت انبار داری صنایع غذایی شابهار 
+  > مدریت انبار داری صنایع غذایی شابهار
+
+* [نوری شاب](https://github.com/graceful1372/My-android-portfolio/tree/wearhouse-shabahar)
+  > برنامه تمرینی فروشگاهی
 
 
 
