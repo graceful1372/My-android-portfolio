@@ -40,7 +40,9 @@
 عکسهای از برخی از صفحه های برنامه :
 
 
-![home](https://github.com/user-attachments/assets/0d0ee02c-b034-45b3-a945-4829b16af99f)![home 2](https://github.com/user-attachments/assets/58440460-00a5-4efa-a376-85ce45f1ce1b)
+![home](https://github.com/user-attachments/assets/0d0ee02c-b034-45b3-a945-4829b16af99f) ![home 2](https://github.com/user-attachments/assets/58440460-00a5-4efa-a376-85ce45f1ce1b)
+
+![detail](https://github.com/user-attachments/assets/9f3df0ae-b14a-4653-a88d-f7aa0d60059f) ![list product](https://github.com/user-attachments/assets/c525109a-8c50-4bf1-a48f-a87be6ecb1dc)
 
 
 
